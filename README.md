@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aswanimol V M</h1>
+<h3 align="center">A passionate Python Full Stack Developer from India</h3>
 
-<!--
-**Aswanimolvm/Aswanimolvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aswanimol-v-m-22949b27a/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswanimol-v-m" height="30" width="40" />
+</a>
+<a href="https://github.com/Aswanimolvm" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aswanimolvm" height="30" width="40" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,bootstrap,javascript,git,github,mysql,postgresql,mongodb,sqlite,postman,docker,aws,vscode,pycharm,figma" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center">💡 “Building scalable, secure, and efficient web applications with Django & React.”</h3>
