@@ -12,10 +12,34 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,bootstrap,javascript,git,github,mysql,postgresql,mongodb,sqlite,postman,docker,aws,vscode,pycharm,figma" />
+
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=django" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+
+  <!-- Data Science -->
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn" />
+
+  <!-- AI / Machine Learning -->
+  <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,vscode,pycharm,figma" />
+
 </p>
 
 ---
 
-<h3 align="center">💡 “Building scalable, secure, and efficient web applications with Django & React.”</h3>
+<h3 align="center">
+💡 “Building scalable, secure, and efficient web applications with Django & React.”
+</h3>
